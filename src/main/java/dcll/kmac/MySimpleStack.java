@@ -8,6 +8,7 @@ import java.util.LinkedList;
  */
 public class MySimpleStack implements SimpleStack {
 
+    //javadoc comment
     private LinkedList<Item> itemList;
 
     public MySimpleStack() {
